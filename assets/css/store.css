@@ -53,7 +53,7 @@ main {
 }
 .product:nth-child(7) {
     background-image: url('../img/products/007.webp');
-    background-position-y: -75px;
+    background-position-y: -70px;
 }
 .product-description {
     width: 100%;
