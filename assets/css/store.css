@@ -29,27 +29,27 @@ main {
 }
 .product:first-child {
     background-image: url('../img/products/001.webp');
-    background-position-y: -50px;
+    background-position-y: -60px;
 }
 .product:nth-child(2) {
     background-image: url('../img/products/002.webp');
-    background-position-y: -50px;
+    background-position-y: -70px;
 }
 .product:nth-child(3) {
     background-image: url('../img/products/003.webp');
-    background-position-y: -80px;
+    background-position-y: -105px;
 }
 .product:nth-child(4) {
     background-image: url('../img/products/004.webp');
-    background-position-y: -90px;
+    background-position-y: -115px;
 }
 .product:nth-child(5) {
     background-image: url('../img/products/005.webp');
-    background-position-y: -50px;
+    background-position-y: -65px;
 }
 .product:nth-child(6) {
     background-image: url('../img/products/006.webp');
-    background-position-y: -110px;
+    background-position-y: -115px;
 }
 .product:nth-child(7) {
     background-image: url('../img/products/007.webp');
