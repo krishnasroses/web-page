@@ -45,7 +45,7 @@ aside {
     max-width: 1440px;
     display: flex;
     justify-content: right;
-    z-index: 100;
+    z-index: 110;
 }
 .btn-menu i {
     font-size: 60px;
